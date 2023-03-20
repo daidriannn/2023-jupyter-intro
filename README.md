@@ -2,7 +2,7 @@
 
 This is my first github repo for data analysis.
 
-## Proejct by
+## Project by
 Daidrian Hammond
 Partner's Name
 
